@@ -38,4 +38,4 @@ $$n! = n \times (n-1) \times (n-2) \times \dots \times 1$$
 2. Clone este repositório ou baixe o arquivo fonte.
 3. Execute o script via terminal:
    ```bash
-   python calculadora.py
+   calculadoraNumerosBinomiais.py
